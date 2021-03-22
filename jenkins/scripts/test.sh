@@ -12,7 +12,7 @@ echo 'https://stackoverflow.com/questions/18875674/whats-the-difference-between-
 echo 'Test meme'
 
 set -x
-npm install --save-dev cross-env
+#npm install --save-dev cross-env
 set +x
 
 echo 'The following "npm" command tests that your simple Node.js/React'
